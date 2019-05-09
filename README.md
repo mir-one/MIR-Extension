@@ -1,4 +1,4 @@
-# MIR.Cube Extension
+# MIR.Cube Lightning Node
 
 A secure, easy way to connect your browser to your MIR.Cube Node.
 
