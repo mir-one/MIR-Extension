@@ -72,7 +72,7 @@ export default {
   }
 
   .help-link {
-    color: #3bccfc;
+    color: #0056ff;
     text-decoration: none;
   }
 
@@ -94,7 +94,7 @@ export default {
     width: 100%;
     padding: 1rem;
     font-weight: bold;
-    background-image: linear-gradient(to right, #5839f5, #9469fe);
+    background-image: linear-gradient(to right, #0056ff, #0056ff);
   }
 
   #password {

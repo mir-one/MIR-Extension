@@ -195,7 +195,7 @@ export default {
 
 .placeholder h2 {
   font-weight: bold;
-  color: #a29bbc;
+  color: #0056ff;
   font-size: 22px;
 }
 </style>

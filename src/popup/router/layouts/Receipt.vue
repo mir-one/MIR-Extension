@@ -29,7 +29,7 @@ export default {
 }
 
 .popup-main {
-  color: #0a0525 !important;
+  color: #333333 !important;
   background-color: #fff;
   padding-top: 0;
   padding-bottom: 0;

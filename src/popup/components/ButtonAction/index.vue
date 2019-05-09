@@ -56,7 +56,7 @@ export default {
   display: inline-block;
   font-size: 16px;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
 }
 /* firefox fix - padding */
 .mir-btn::-moz-focus-inner {
@@ -148,7 +148,7 @@ export default {
   padding: 0 1rem;
 }
 .mir-btn-container.mir-btn-primary {
-  background: #99f;
+  background: #0056ff;
 }
 .mir-btn-container.mir-btn-primary i.fa,
 .mir-btn-container.mir-btn-primary i {

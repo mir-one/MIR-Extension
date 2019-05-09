@@ -17,17 +17,17 @@ export default {
 
 <style lang="scss" scoped>
 .popup-container {
-  background-color: #160c46;
+  background-color: #333333;
   height: 600px;
 }
 
 .navbar {
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-main {
   color: #fff !important;
-  background-color: #160c46;
+  background-color: #333333;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -37,7 +37,7 @@ section * {
 }
 
 section.data-group {
-  border-bottom: 3px solid #231a52;
+  border-bottom: 3px solid #333333;
   padding: 1rem 1.5rem;
 }
 

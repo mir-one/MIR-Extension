@@ -21,7 +21,7 @@ export default {
 html {
   line-height: 1.6;
   color: #333;
-  background-color: #160c46;
+  background-color: #333333;
   font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
 }
 
@@ -37,7 +37,7 @@ html {
   margin-left: auto;
   width: 400px;
   height: 600px;
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-main {

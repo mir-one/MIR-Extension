@@ -41,14 +41,14 @@ export default {
 }
 
 @font-face {
-  font-family: 'Monda';
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: url('~assets/fonts/monda.woff2');
+  src: url('~assets/fonts/Roboto.woff2');
 }
 
 .numeric {
-  font-family: 'Monda', Arial, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   -webkit-font-smoothing: subpixel-antialiased;
   letter-spacing: -0.9px;
   font-size: 30px;

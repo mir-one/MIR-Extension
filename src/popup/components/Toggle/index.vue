@@ -212,7 +212,7 @@ export default {
   vertical-align: middle;
   user-select: none;
   font-size: 10px;
-  border: 3px solid #383163;
+  border: 3px solid #d1cdee;
   border-radius: 30px;
   cursor: pointer;
   min-width: 200px;
@@ -252,7 +252,7 @@ export default {
     width: 180px !important;
     height: 39px !important;
     border-radius: 20px !important;
-    background-color: #160c46;
+    background-color: #000000;
 
     .v-switch-button {
       display: block;
@@ -290,7 +290,7 @@ export default {
   width: 15px;
   height: 15px;
   border-radius: 7.5px;
-  border: 2px solid #383163;
+  border: 2px solid #333333;
   position: relative;
   top: 3.25px;
 }

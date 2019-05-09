@@ -45,7 +45,7 @@ export default {
   overflow: scroll;
   background: #fff;
   z-index: 9999;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
 
   &_inner {
     position: relative;

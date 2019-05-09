@@ -55,12 +55,12 @@ export default {
 
 <style lang="scss" scoped>
 .navbar {
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-main {
   color: #fff !important;
-  background-color: #160c46;
+  background-color: #333333;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -90,7 +90,7 @@ export default {
 }
 
 .copy-request p {
-  color: #865efc;
+  color: #0056ff;
   font-size: 14px;
 }
 
@@ -118,7 +118,7 @@ export default {
   background: #fff;
   color: #fff;
   z-index: 9999;
-  background-color: #160c46;
+  background-color: #333333;
 
   &_inner {
     position: relative;
@@ -152,7 +152,7 @@ export default {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
   border: none;
   color: #fff;
   min-width: 105px;

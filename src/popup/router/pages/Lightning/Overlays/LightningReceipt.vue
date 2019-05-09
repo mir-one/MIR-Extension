@@ -63,7 +63,7 @@ export default {
   font-weight: 900;
   line-height: 1.3;
   letter-spacing: 1px;
-  color: #0a0525;
+  color: #333333;
   text-transform: uppercase;
 }
 
@@ -71,7 +71,7 @@ export default {
   font-size: 18px;
   font-weight: bold;
   text-align: right;
-  color: #0a0525;
+  color: #333333;
 }
 
 .receipt-header {
@@ -79,20 +79,20 @@ export default {
   max-width: 42em;
   margin: 0 auto;
   padding: 1em;
-  color: #0a0525;
+  color: #333333;
   border-bottom: 3px solid #f5f5f5;
 
   h3 {
     font-size: 24px;
     font-weight: 900;
-    color: #0a0525;
+    color: #333333;
   }
 
   h6 {
     opacity: 0.5;
     font-size: 18px;
     font-weight: 500;
-    color: #0a0525;
+    color: #333333;
   }
 }
 
@@ -102,7 +102,7 @@ export default {
   margin-right: auto;
   margin-left: auto;
   padding: 1em;
-  color: #0a0525;
+  color: #333333;
 }
 
 .receipt-details .justify-content-between {
@@ -152,14 +152,14 @@ export default {
   font-size: 16px;
   font-weight: 500;
   text-align: center;
-  color: #0a0525;
+  color: #333333;
   margin-top: -2px;
 }
 
 .date-time {
   font-size: 15px;
   text-align: center;
-  color: #0a0525;
+  color: #333333;
   border-left: 1px solid #d7d8d9;
   padding-left: 10px;
 }

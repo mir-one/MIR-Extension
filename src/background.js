@@ -40,7 +40,7 @@ function payInvoice(request) {
 
 // Add message listener
 browser.runtime.onMessage.addListener(async request => {
-  if (!request || !request.data || request.application !== 'MIR.Cube Extension') {
+  if (!request || !request.data || request.application !== 'MIR.Cube Lightning Node') {
     return;
   }
   // open extension in popup window

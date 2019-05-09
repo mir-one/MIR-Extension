@@ -107,12 +107,12 @@ export default {
 
 <style lang="scss" scoped>
 .navbar {
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-main {
   color: #fff !important;
-  background-color: #160c46;
+  background-color: #333333;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -136,7 +136,7 @@ export default {
 }
 
 .wallet-options {
-  background-color: #0a0525;
+  background-color: #333333;
   padding: 3rem 1.5rem 4rem;
   margin-top: 2rem;
 }
@@ -191,7 +191,7 @@ export default {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
   border: none;
   margin-top: 2rem;
 }

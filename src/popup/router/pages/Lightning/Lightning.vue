@@ -251,7 +251,7 @@ section * {
 }
 
 section.data-group {
-  border-bottom: 3px solid #231a52;
+  border-bottom: 3px solid #333333;
   padding: 1rem 1.5rem;
 }
 
@@ -312,7 +312,7 @@ section.data-group {
 
 .placeholder h2 {
   font-weight: bold;
-  color: #a29bbc;
+  color: #0056ff;
   font-size: 22px;
 }
 
@@ -351,11 +351,11 @@ section.data-group {
 #options .dropdown-menu.show,
 #options .dropdown-item:hover,
 #options .dropdown-item:focus {
-  background: #261d53;
+  background: #333333;
 }
 
 #options .dropdown-divider {
-  border-top: 3px solid #312958;
+  border-top: 3px solid #333333;
 }
 
 #options .dropdown-menu.show a {

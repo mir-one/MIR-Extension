@@ -4,7 +4,7 @@
       <div class="overlay-message">
         <img id="home-logo" src="~assets/images/home-logo.svg" alt="home" />
         <h2 class="text-center">Hello there.</h2>
-        <h4 class="text-center">Welcome to MIR.Cube Extension.</h4>
+        <h4 class="text-center">Welcome to MIR.Cube Lightning Node.</h4>
         <img id="home-bg" src="~assets/images/home-bg.png" alt="background" style="display:none;" />
       </div>
       <div class="overlay-background"></div>
@@ -52,7 +52,7 @@ export default {
   bottom: 0;
   left: 0;
   overflow: scroll;
-  background: #0a0525;
+  background: #333333;
   z-index: 9999;
 
   &_inner {
@@ -79,7 +79,7 @@ export default {
   h4 {
     font-size: 22px;
     margin-bottom: 0.75rem;
-    color: #a29bbc;
+    color: #0056ff;
   }
 }
 
@@ -109,14 +109,14 @@ export default {
   margin: 10px 2px 2px;
   font-weight: bold;
   border: none;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
 }
 
 .default-button {
   padding: 1rem;
   margin: 2px;
   font-weight: bold;
-  background-color: #38344d;
+  background-color: #000000;
 }
 
 #home-logo {

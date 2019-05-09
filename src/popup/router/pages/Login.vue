@@ -60,7 +60,7 @@ export default {
   }
 
   .instructions {
-    color: #a29bbc;
+    color: #0056ff;
     font-size: 18px;
     margin: 1.5em 0;
     line-height: 1.5em;
@@ -79,7 +79,7 @@ export default {
   .mir-button {
     padding: 1rem;
     font-weight: bold;
-    background-image: linear-gradient(to right, #5839f5, #9469fe);
+    background-image: linear-gradient(to right, #0056ff, #0056ff);
     border: none;
     width: 100%;
     position: relative;

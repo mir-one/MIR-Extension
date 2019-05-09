@@ -57,7 +57,7 @@ export default {
 html {
   line-height: 1.6;
   color: #333;
-  background-color: #160c46;
+  background-color: #333333;
   font-family: -apple-system, 'Roboto', sans-serif;
 }
 
@@ -98,7 +98,7 @@ html {
   margin-left: auto;
   width: 400px;
   height: 540px;
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-nav {
@@ -121,7 +121,7 @@ html {
   text-align: center;
   padding-bottom: 1.25rem;
   padding-top: 1rem;
-  border: 3px solid #231a52;
+  border: 3px solid #333333;
   border-left: none;
   border-right: none;
 }
@@ -140,7 +140,7 @@ html {
   height: 50vh;
   overflow: auto;
   padding: 0.5rem 1rem 4rem 1rem;
-  border-bottom: 3px solid #231a52;
+  border-bottom: 3px solid #333333;
 
   .tx-list {
     margin-top: 0.5rem;
@@ -166,7 +166,7 @@ html {
             height: 45px;
             border-radius: 9.5px;
             background-color: transparent;
-            border: solid 1.8px #231a52;
+            border: solid 1.8px #333333;
             display: flex;
             flex-direction: column;
             justify-content: center;

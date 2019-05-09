@@ -1,7 +1,7 @@
 const browser = require('webextension-polyfill');
 
 async function sendMessage(data) {
-  await browser.runtime.sendMessage({ application: 'MIR.Cube Extension', response: true, data });
+  await browser.runtime.sendMessage({ application: 'MIR.Cube Lightning Node', response: true, data });
 }
 
 // Add click event listener for lightning payment requests

@@ -62,7 +62,7 @@ export default {
 }
 
 p.instructions {
-  color: #a29bbc;
+  color: #0056ff;
   font-size: 18px;
   margin: 1.5em 0;
   line-height: 1.5em;
@@ -81,7 +81,7 @@ p.instructions {
 }
 
 .help-link {
-  color: #3bccfc;
+  color: #0056ff;
   text-decoration: none;
 }
 
@@ -128,7 +128,7 @@ p.instructions {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
   border: none;
   width: 100%;
   position: absolute;

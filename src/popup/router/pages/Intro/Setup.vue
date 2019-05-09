@@ -98,7 +98,7 @@ p {
 .settings .help-text {
   margin: 1.5em 0;
   line-height: 1.5em;
-  color: #a29bbc;
+  color: #0056ff;
 }
 
 .settings {
@@ -110,7 +110,7 @@ p {
 }
 
 .help-link {
-  color: #3bccfc !important;
+  color: #0056ff !important;
   text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ p {
 }
 
 .report-success {
-  color: #2dcccd;
+  color: #0056ff;
   float: right;
 }
 
@@ -146,7 +146,7 @@ p {
 
 .b-form-group input {
   height: 55px;
-  border-color: #393163;
+  border-color: #333333;
   color: #fff;
 }
 
@@ -171,7 +171,7 @@ p {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
   border: none;
   width: 100%;
 }

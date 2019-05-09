@@ -91,12 +91,12 @@ export default {
 
 <style lang="scss" scoped>
 .navbar {
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-main {
   color: #fff !important;
-  background-color: #160c46;
+  background-color: #333333;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -127,7 +127,7 @@ export default {
 
     .payment-badge {
       border-radius: 15px;
-      background-color: #0a0525;
+      background-color: #333333;
       margin: 0 auto;
       padding: 7px 10px;
       text-transform: uppercase;
@@ -156,7 +156,7 @@ export default {
 }
 
 .wallet-options {
-  background-color: #0a0525;
+  background-color: #333333;
   padding: 3rem 1.5rem 3rem;
   p {
     text-align: center;
@@ -196,7 +196,7 @@ export default {
   line-height: 1.3;
   letter-spacing: 1px;
   text-align: center;
-  color: #a29bbc;
+  color: #0056ff;
 }
 
 .mir-button {
@@ -207,7 +207,7 @@ export default {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
   -webkit-appearance: none;
   text-decoration: none !important;
   border: none;

@@ -118,12 +118,12 @@ export default {
 
 <style lang="scss" scoped>
 .navbar {
-  background-color: #160c46;
+  background-color: #333333;
 }
 
 .popup-main {
   color: #fff !important;
-  background-color: #160c46;
+  background-color: #333333;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -139,7 +139,7 @@ export default {
   font-size: 18px;
   font-weight: 500;
   line-height: 1.5;
-  color: #a29bbc;
+  color: #0056ff;
 }
 
 .data-group {
@@ -147,7 +147,7 @@ export default {
 }
 
 .data-group input {
-  background: #160c46;
+  background: #333333;
 }
 
 .payment-info {
@@ -166,7 +166,7 @@ export default {
   line-height: 1.3;
   letter-spacing: 1px;
   text-align: center;
-  color: #a29bbc;
+  color: #0056ff;
 }
 
 .mir-button {
@@ -178,7 +178,7 @@ export default {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-image: linear-gradient(to right, #5839f5, #9469fe);
+  background-image: linear-gradient(to right, #0056ff, #0056ff);
   border: none;
 }
 

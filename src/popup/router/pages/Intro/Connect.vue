@@ -81,7 +81,7 @@ export default {
   bottom: 0;
   left: 0;
   overflow: scroll;
-  background: #0a0525;
+  background: #333333;
   z-index: 9999;
 
   &_inner {
@@ -131,7 +131,7 @@ export default {
   font-size: 16px;
   font-weight: bold;
   border-radius: 4px;
-  background-color: #38344d;
+  background-color: #000000;
   color: #fff;
 }
 
