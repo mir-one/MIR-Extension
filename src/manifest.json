@@ -2,7 +2,7 @@
   "name": "MIR.Cube Lightning Node",
   "description": "Easily make & receive Bitcoin and Lightning Network payments on the web using your MIR.Cube Node.",
   "version": "1.0.0",
-  "manifest_version": 1,
+  "manifest_version": 2,
   "icons": {
     "48": "icons/icon_48.png",
     "128": "icons/icon_128.png"
